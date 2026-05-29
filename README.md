@@ -10,9 +10,11 @@ Con los resultados de este modelo predictivo, el equipo de negocio podrá diseñ
 ---
 
 ## 2. El Dataset
-El modelo utiliza el conjunto de datos **Online Retail II**, que contiene las transacciones realizadas por un comercio minorista online con sede en el Reino Unido (sin tienda física) entre el `01/12/2009` y el `09/12/2011`. 
+El modelo utiliza el conjunto de datos [**Online Retail II**](https://archive.ics.uci.edu/dataset/502/online+retail+ii) obtenido del **UCI Machine Learning Repository**. Este contiene las transacciones realizadas por un comercio minorista online con sede en el Reino Unido (sin tienda física) entre el `01/12/2009` y el `09/12/2011`. 
 
 Las variables principales incluyen el número de factura, código de producto, descripción, cantidad, fecha de la transacción, precio unitario, ID del cliente y país de residencia.
+
+*(Para ver la cita formal y los detalles de la licencia de uso, consulta la sección de Referencias al final de este documento).*
 
 ---
 
@@ -54,3 +56,13 @@ Tras el entrenamiento y la optimización, el modelo **Random Forest** demostró 
 ## 5. Entregables del Proyecto
 * `notebook_modelo.ipynb`: Jupyter Notebook con el código completo (EDA, limpieza, modelado y evaluación).
 * `Presentacion_Negocio.pdf/pptx`: Presentación ejecutiva resumida (5 slides) con los insights, gráficas descriptivas, resultados del modelo y próximos pasos sugeridos para el equipo comercial.
+
+---
+
+## 6. Referencias y Licencia
+
+**Fuente de los Datos:**
+* Chen, D. (2012). Online Retail II [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5CG6D
+
+**Licencia de Uso:**
+Este dataset se utiliza y comparte bajo la licencia [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
