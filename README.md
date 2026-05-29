@@ -1,4 +1,4 @@
-# Predicción de Recompra de Clientes en Retail 🛒
+# Predicción de Recompra de Clientes en Retail 
 
 ## 1. Contexto de Negocio
 Este proyecto se desarrolla desde la perspectiva del Data Scientist principal de una empresa de retail online. El objetivo principal es **identificar a los clientes con alta probabilidad de volver a comprar** en el establecimiento. 
